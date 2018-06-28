@@ -1,6 +1,4 @@
 // http://ionicframework.com/docs/theming/
-
-
 // App Global Sass
 // --------------------------------------------------
 // Put style rules here that you want to apply globally. These
@@ -14,3 +12,23 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.text-center {
+    text-align: center;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.caja-vacia {
+    color: #C7C7C7;
+    padding-top: 40%;
+}
+
+.caja-vacia p {
+    font-size: 30px;
+}
+
+.icono-grande {
+    font-size: 100px;
+}
